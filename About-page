@@ -1,1 +1,147 @@
+<!DOCTYPE html>
+
+<html>
+  <head>
+    <meta name="viewport" content="with=device-width, initial-scale=1.0" />
+    <title>About us</title>
+    <link rel="stylesheet" href="style.css" />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"
+    />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;600;700&display=swap"
+      rel="stylesheet"
+    />
+    "
+  </head>
+
+  <body>
+    <section class="header">
+      <div class="text-box">
+        <h1>About Us.</h1>
+        <p>Learn More About Our Sons For Association Development</p>
+        <a href="" class="btn-1">Read More</a>
+      </div>
+    </section>
+
+    <section class="Vision-Message">
+      <h1>Our Vision and Our Message</h1>
+      <p class="temp">Our Sons Association For Development.</p>
+
+      <div class="row">
+        <div class="mi1">
+          <h3>Our Vision</h3>
+          <p class="vm">
+            Developing social performance and enriching cultural action in the
+            Palestinian society.”
+          </p>
+        </div>
+
+        <div class="va1">
+          <h3>Our Message</h3>
+          <p class="vm">
+            Contribute effectively to the provision of social services to create
+            family balance and raise cultural awareness by providing programs
+            targeting Palestinian women, children and youth
+          </p>
+        </div>
+      </div>
+    </section>
+
+    <section class="about-us">
+      <div class="row-2">
+        <div class="about-col">
+          <h1>
+            About <span class="edi1">Our Sons</span>
+            <span class="edi2">Association For</span>
+            <span class="edi3">Development</span>
+          </h1>
+        </div>
+        <div class="about-col2">
+          <p>
+            A charitable, non-profit, civil association founded on 10/5/2003
+            with a youth initiative and obtained a license from the Ministry of
+            the Interior No. 7278 and a certificate of registration from the
+            Ministry of Youth No. 67/2007 and our keenness to activate the role
+            of the association in serving the people of our Palestinian society
+            in all its segments and in order to mobilize and strengthen
+            capabilities And developing skills to build a future of prosperity
+            and prosperity. Despite the fact that the association’s headquarters
+            was subjected to total destruction during the war on August 26, 2014
+            in Burj Al-Basha, and on August 9, 2018, for the second time, in
+            Al-Mishal Building, the will of the workers and volunteers is still
+            insisting on continuing to give and work to serve Our people despite
+            all the surrounding circumstances.
+          </p>
+        </div>
+        <div class="about-col3">
+          <img src="Images/gaza2.PNG" />
+        </div>
+      </div>
+    </section>
+    <section class="goals-sec">
+      <h1>Our Goals</h1>
+
+      <div class="row-3">
+        <div class="g1">
+          <h2>Goal-1</h2>
+          <p>
+            -Developing the administrative and professional performance
+            capabilities of the association
+          </p>
+        </div>
+
+        <div class="g2">
+          <h2>Goal-2</h2>
+          <p>
+            -Contribute to strengthening the role of women and children in order
+            to build a stable family
+          </p>
+        </div>
+
+        <div class="g3">
+          <h2>Goal-3</h2>
+          <p>
+            -Developing youth competencies and activating the socio-cultural
+            aspect of youth in the Gaza Strip
+          </p>
+        </div>
+
+        <div class="g2">
+          <h2>Goal-4</h2>
+          <p>
+            -Building a network with relevant local and international
+            institutions that serve the objectives of the association
+          </p>
+        </div>
+
+        <div class="g1">
+          <h2>Goal-5</h2>
+          <p>
+            -Contribute to the rehabilitation and integration of people with
+            special needs and the elderly and enhance their community
+            participation
+          </p>
+        </div>
+      </div>
+    </section>
+
+    <section class="footer">
+      <h4>Footer</h4>
+      <p>
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+        tempor incididunt ut labore et dolore magna aliqua.
+      </p>
+      <div class="icons">
+        <i class="fa fa-facebook"></i>
+        <i class="fa fa-twitter"></i>
+        <i class="fa fa-instagram"></i>
+        <i class="fa fa-linkedin"></i>
+      </div>
+    </section>
+  </body>
+</html>
 
