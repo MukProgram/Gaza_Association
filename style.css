@@ -458,3 +458,67 @@ span.text {
     padding: 10px 0px;
 }
 
+/* ------- css for small screens ---------- */
+
+nav .fa-solid {
+    display: none;
+}
+
+@media only screen and (max-width: 600px) {
+    #header {
+        background-image: url(images/Hero_phone.png);
+    }
+
+    .header-text {
+        margin-top: 50%;
+        font-size: 16px;
+
+        width: 100%;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    .header-text h1 {
+        font-size: 30px;
+    }
+    .header-text p{
+        font-size: 18px;
+    }
+    nav .fa-solid {
+        display: block;
+        font-size: 25px;
+        text-align: left;
+        width: fit-content;
+    }
+    nav ul {
+        background: #ff004f;
+        position: fixed;
+        top: 0;
+        right: -200px;
+
+        width: 200px;
+        height: 100vh;
+        padding-top: 50px;
+        z-index: 2;
+        transition: right 0.5s;
+    }
+    nav .fa-xmark {
+        color: #FFF;
+    }
+    nav ul li {
+        display: block;
+        margin: 25px;
+    }
+    nav ul li a::after {
+        
+        background: #fff;
+       
+    }
+    nav ul .fa-solid{
+        position: absolute;
+        top: 25px;
+        left: 25px;
+        cursor: pointer;
+
+    }
+    
+}
